@@ -114,6 +114,8 @@ List out file functions: ⌃ + 6
 
 Edit All in Scope: ⌃ + ⌘ + E
 
+Refactor -> Rename: ⌃ + ⌘ + `
+
 Delete line: ⌃ + K
 
 Re-Indent the whole function: ⌃ + I
