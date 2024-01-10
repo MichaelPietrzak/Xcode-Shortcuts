@@ -112,7 +112,7 @@ Go To previous or Next file: ⌘ + ⌃ + left/right
 
 List out file functions: ⌃ + 6
 
-Rename: ⌃ + ⌘ + E
+Edit All in Scope: ⌃ + ⌘ + E
 
 Delete line: ⌃ + K
 
