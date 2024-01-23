@@ -4,7 +4,7 @@ Xcode and Swift shortcuts noted to speed up iOS Development.
 
 <br />
 
-## Index:
+## Table of contents
 
 - [Keyboard keys Cheatsheet](#keyboard-keys-cheatsheet)
 - [Navigation - Workspace](#navigation---workspace)
@@ -19,7 +19,7 @@ Xcode and Swift shortcuts noted to speed up iOS Development.
 
 <br />
 
-## Keyboard keys Cheatsheet:
+## Keyboard keys Cheatsheet
 
 <br />
 
