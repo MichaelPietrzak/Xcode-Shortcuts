@@ -16,6 +16,7 @@ Xcode and Swift shortcuts noted to speed up iOS Development.
 - [MacOS Finder Shortcuts](#macos-finder-shortcuts)
 - [Xcode Source control symbols status](#xcode-source-control-symbols-status)
 - [Debugging - Setting breakpoints](#debugging---setting-breakpoints)
+- [Xcode 15 - SwiftUI](#xcode-15---swiftui)
 
 <br />
 
@@ -254,3 +255,12 @@ Step over: Executes the selected line and pauses execution on the next line.
 Step into: If clicked on a line with a function call, advances to the first line of the function, then pauses execution again.
 
 Step out: Executes all remaining lines in the function call and pauses execution on the line after the function.
+
+<br />
+<br />
+
+## Xcode 15 - SwiftUI
+
+<br />
+
+Auto split expression across several lines: place cursor at start of long expression and press ⌃ + M
